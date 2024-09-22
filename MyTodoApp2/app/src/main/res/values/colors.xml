@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#25BE2E</color>
+
+    <color name="gradient_start">#24BF2C</color> <!-- Start color for gradient -->
+    <color name="gradient_end">#ACEFB0</color> <!-- End color for gradient -->
+</resources>
